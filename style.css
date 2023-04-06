@@ -42,9 +42,9 @@ hr {
 
 h1 {
     font-size: 3em;
-    letter-spacing: .6em;
-    padding-top: 1em;
-    padding-bottom: 1em;
+    letter-spacing: .1em;
+    padding-top: .5em;
+    padding-bottom: .5em;
 }
 
 h2 {
